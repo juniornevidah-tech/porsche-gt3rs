@@ -18,7 +18,7 @@ function App() {
     <div>
       <Navbar />
       <div id="overview"><Hero /></div>
-      <CarModel />
+      {/* <CarModel /> */}
       <Overview />
       <div id="performance"><Performance /></div>
       <div id="engine"><Engine /></div>
