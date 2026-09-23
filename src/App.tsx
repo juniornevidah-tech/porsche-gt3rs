@@ -11,7 +11,7 @@ import Gallery from "./components/Gallery/Gallery";
 import Specifications from "./components/Specifications/Specifications";
 import Timeline from "./components/Timeline/Timeline";
 import Design from "./components/Design/Design";
-import CarModel from "./components/CarModel3D/CarModel3D";
+// import CarModel from "./components/CarModel3D/CarModel3D";
 
 function App() {
   return (
