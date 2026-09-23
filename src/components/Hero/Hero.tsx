@@ -10,7 +10,7 @@ function Hero() {
                 playsInline
                 className="absolute inset-0 w-full h-full object-cover opacity-60"
             >
-                <source src="/public/porscher.mp4" type="video/mp4" />
+                <source src="/porscher.mp4" type="video/mp4" />
             </video>
 
             <div className="relative z-10">

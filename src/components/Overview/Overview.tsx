@@ -4,7 +4,7 @@ function Overview() {
     return (
         <div className="relative bg-black text-white py-24 px-6 overflow-hidden">
             <img
-                src="/public/gt3.jpg"
+                src="/gt3.jpg"
                 alt="Porsche 911 GT3 RS"
                 className="absolute inset-0 w-full h-full object-cover opacity-30"
             />
