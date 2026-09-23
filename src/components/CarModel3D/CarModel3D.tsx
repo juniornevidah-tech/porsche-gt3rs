@@ -2,7 +2,7 @@ import { Canvas } from "@react-three/fiber";
 import { OrbitControls, useGLTF } from "@react-three/drei";
 
 function Modelo3D() {
-    const { scene } = useGLTF("./public/porsche_gt3_rs.glb");
+    const { scene } = useGLTF("/porsche_gt3_rs.glb");
     return <primitive object={scene} scale={1} />;
 }
 
